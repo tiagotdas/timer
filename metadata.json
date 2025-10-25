@@ -1,0 +1,5 @@
+{
+  "name": "Timer App",
+  "description": "A timer with play, pause, and stop controls.",
+  "requestFramePermissions": []
+}
